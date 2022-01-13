@@ -1,5 +1,5 @@
 ﻿# Dieses Skript erstellt für User einer Gruppe das RC-Zertifikat und setzt ein Swyx-Passwort
-# Stannek GmbH - E.Sauerbier - 12.01.2021
+# Stannek GmbH v.1.0 - 12.01.2021 - E.Sauerbier
 
 # Verbindung mit dem Swyx-Server herstellen 
 Import-Module IpPbx
